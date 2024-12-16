@@ -30,7 +30,7 @@ We're talking a diverse product kingdom 👑 and a massive customer following �
 * **MySQL:**  Data analysis and extraction power 💪
 * **Excel:**  Data cleaning and preparation magic ✨
 
-### About the Author
+### About the Author:
 
 This project marks the beginning of my exciting journey into the world of data science. 
 <br>

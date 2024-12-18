@@ -10,7 +10,7 @@ The main goal of this project is to gain understanding from sales data, explorin
 
 ### About Data
 
-This project's data was obtained from a company I have a connection with and it encompasses sales transactions from three multiple cities situated in two states gujarat and madhya pradesh. this dataset contains two table named sales and customer. table sales contains 12 columns and 4329 rows, and table customer contains 6 columns and 284 rows.
+This project's data was obtained from a company I have a connection with and it encompasses sales transactions from three multiple cities situated in two states gujarat and madhya pradesh. this dataset contains two table named sales and customer. Table sales contains 12 columns and 4329 rows, And table customer contains 6 columns and 284 rows.
 
 ###  Tools Used
 

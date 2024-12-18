@@ -33,7 +33,7 @@ This project's data was obtained from a company I have a connection with and it 
 
 ###  Key Findings:
 
-* op-Performing Products: Identifying the most successful products.
+* Top-Performing Products: Identifying the most successful products.
 * Seasonal Sales Trends: Analyzing sales patterns across different seasons.
 * Regional Sales Performance: Evaluating sales performance by region.
 * Customer Segmentation: Identifying and characterizing high-value customer segments.

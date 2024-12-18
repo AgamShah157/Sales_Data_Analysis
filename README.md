@@ -12,7 +12,7 @@ The main goal of this project is to gain understanding from sales data, explorin
 
 This project's data was obtained from a company I have a connection with and it encompasses sales transactions from three multiple cities situated in two states gujarat and madhya pradesh. this dataset contains two table named sales and customer. table sales contains 12 columns and 4329 rows, and table customer contains 6 columns and 284 rows.
 
-###  Tools used across this project
+###  Tools Used
 
 * **Excel:** This project employed Excel's formulas, functions, and VBA to clean and structure messy data. This included handling null values and removing unwanted special characters that obstructed data loading. 
 * **MySQL:** This project leveraged SQL functions such as CTEs, joins, subqueries, case statements, and window functions to extract meaningful insights from the data.
